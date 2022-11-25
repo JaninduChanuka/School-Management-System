@@ -1,6 +1,13 @@
 # School Management System
 
-### Simple Student and Teachers Management System using Java Swing and MySQL
+- This is a Simple Student and Teachers Management System Developed for practice JAVA Swing using Netbeans IDE. Also use MySQL for database.
+
+## Features of this Project
+### Admin user can
+- Login to the system
+- Manage Students (Add, Search, Update, Delete)
+- Manage Teachers (Add, Search, Update, Delete)
+- View all students and teacher detals
 
 ## Previews
 ![1](https://user-images.githubusercontent.com/108678396/203913579-81965e96-df37-406f-b2f8-e6890a25c225.PNG)
